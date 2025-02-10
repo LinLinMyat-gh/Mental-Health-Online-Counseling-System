@@ -32,8 +32,7 @@ This project presents an **online counseling system** designed to connect indivi
 Below are the core system diagrams designed for this project:
 
 ### 1. Use Case Diagram
-![Use_Case_Diagram](https://github.com/user-a![Activity_Diagram](https://github.com/user-attachments/assets/039cfab5-9a3b-4b7d-bd20-6bb988eb1271)
-ttachments/assets/d52605ba-2a31-41cf-ba74-8e72eb693104)
+![Screenshot 2025-02-10 160528](https://github.com/user-attachments/assets/2342835f-26e4-440d-b8a2-de2ead16624b)
 
 
 ### 2. Activity Diagram
