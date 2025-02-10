@@ -1,17 +1,12 @@
 # Mental Health Online Counseling System
 
 ## Project Overview
-- **Course:** System Analysis & Design (SAD)
-- **Team Name:** Future Billionaires
-- **Team Members:**
-  - Sai Oakkar Maung - 6510006  
-  - Ingyin Kyaw - 6509797  
-  - Hein Thant Si Thu - 6509825  
-  - Kyi Phyu Shyun Latt - 6509421  
-  - Lin Lin Myat - 6509791  
+
+This project was developed as part of the **System Analysis & Design (SAD)** course by **Team Future Billionaires**. The team members include Lin Lin Myat (6509791)**,  Kyi Phyu Shyun Latt (6509421), Ingyin Kyaw (6509797), **Sai Oakkar Maung (6510006), Hein Thant Si Thu (6509825). The project focuses on building an **online counseling system** that provides secure virtual therapy sessions, ensuring accessibility, privacy, affordability, and flexibility for individuals seeking mental health support.  
 
 ## Description
-This project presents an **online counseling system** designed to connect individuals with licensed therapists through secure virtual counseling sessions. It aims to break barriers to mental health support by providing accessibility, privacy, affordability, and flexibility.
+
+The **Mental Health Online Counseling System** connects users with licensed therapists through encrypted video counseling sessions. The platform is designed to eliminate barriers to mental health care by offering an accessible, user-friendly, and cost-effective solution.  
 
 ## System Features
 - **Secure Virtual Therapy Sessions**: Connect users with licensed professionals via encrypted video calls.
@@ -32,7 +27,8 @@ This project presents an **online counseling system** designed to connect indivi
 Below are the core system diagrams designed for this project:
 
 ### 1. Use Case Diagram
-![Screenshot 2025-02-10 160528](https://github.com/user-attachments/assets/2342835f-26e4-440d-b8a2-de2ead16624b)
+![Use_Case_Diagram](https://github.com/user-attachments/assets/88b8a84e-1206-4cfe-b544-0d3afe04bd58)
+
 
 
 ### 2. Activity Diagram
@@ -47,27 +43,32 @@ Below are the core system diagrams designed for this project:
 The system includes an intuitive UI design for an enhanced user experience. Below are the key screens:
 
 ### 1. Home Page
-**Filename:** `home_page.png`
+![Home Page](https://github.com/user-attachments/assets/f6fc5a05-d889-4fed-b800-e239a51c729e)
+
 
 ### 2. Log In Page
-**Filename:** `login_page.png`
+![Log In Page](https://github.com/user-attachments/assets/ddf272af-21a8-474a-a81b-39e8c84a1fe1)
+
 
 ### 3. Sign Up Page
-**Filename:** `sign_up_page.png`
+![Sign Up Page](https://github.com/user-attachments/assets/76b59df4-36d3-4823-95b4-48cb8cae3e71)
+
 
 ### 4. About Us Page
-**Filename:** `about_us_page.png`
+![About Us Page](https://github.com/user-attachments/assets/7ebeacb9-b6f9-4e6f-8b9c-38d420eb6956)
+
 
 ### 5. Services Page
-**Filename:** `services_page.png`
+![Service Page](https://github.com/user-attachments/assets/a173d76a-8885-4d53-822d-ef1ad080683f)
+
 
 ### 6. Appointments Page
-**Filename:** `appointments_page.png`
+![Appointments Page](https://github.com/user-attachments/assets/e45acdcb-733c-4d65-ae7a-5f9e739f4c37)
+
 
 ### 7. Contact Us Page
-**Filename:** `contact_us_page.png`
+![Contact Us Page](https://github.com/user-attachments/assets/50d96e81-5c82-485c-b130-db258721a569)
 
-(Upload all UI screenshots to GitHub and reference them here.)
 
 ## Implementation Plan
 1. **Market Research**: Identify target users and analyze competitor platforms.
