@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was developed as part of the **System Analysis & Design (SAD)** course by **Team Future Billionaires**. The team members include Lin Lin Myat (6509791)**,  Kyi Phyu Shyun Latt (6509421), Ingyin Kyaw (6509797), **Sai Oakkar Maung (6510006), Hein Thant Si Thu (6509825). The project focuses on building an **online counseling system** that provides secure virtual therapy sessions, ensuring accessibility, privacy, affordability, and flexibility for individuals seeking mental health support.  
+This project was developed as part of the **System Analysis & Design (SAD)** course by **Team Future Billionaires**. The team members include Lin Lin Myat (6509791),  Kyi Phyu Shyun Latt (6509421), Ingyin Kyaw (6509797), Sai Oakkar Maung (6510006), Hein Thant Si Thu (6509825). The project focuses on building an **online counseling system** that provides secure virtual therapy sessions, ensuring accessibility, privacy, affordability, and flexibility for individuals seeking mental health support.  
 
 ## Description
 
